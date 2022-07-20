@@ -1,2 +1,2 @@
 # VeryLogarithmic
-A sample of the verily project I put together, all coding done by me.
+A sample of the Verilog project I put together, all coding done by me.
